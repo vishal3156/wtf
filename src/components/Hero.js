@@ -18,7 +18,7 @@ const Hero = () => {
             New Trend
           </h1>
           <Link
-            to={"/Home"}
+            to={"/"}
             className="self-start uppercase font-semibold border-b-2 border-primary flex justify-center items-center"
           >
             Scroll down
